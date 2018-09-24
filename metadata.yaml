@@ -1,5 +1,8 @@
 _repo: Tower-of-Ivory-A-Novel_56340
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56340-h/images/cover.jpg
 creator:
   author:
     agent_name: Atherton, Gertrude Franklin Horn
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/263
     wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56340#Tower-of-Ivory-A-Novel
 gutenberg_issued: '2018-01-08'
 gutenberg_type: Text
 identifiers:
