@@ -1,0 +1,31 @@
+_repo: Tower-of-Ivory-A-Novel_56340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2018-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Munich (Germany) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: 'Tower of Ivory: A Novel'
+url: http://www.gutenberg.org/ebooks/56340
